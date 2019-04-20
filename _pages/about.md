@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About...
+I am a PhD student in computer science at Stanford, advised by [Mary Wootters](https://sites.google.com/site/marywootters/) and [Jure Leskovec](http://snap.stanford.edu/people.html). My current research interests are in error correcting codes for distributed storage and computation, and analysis of temporal networks.
+
+I completed my undergraduate at Arizona State University, where I worked with Andrea Richa on the [Self-Organizing Particle Systems](https://sops.engineering.asu.edu/) project. I graduated in May of 2017 with a B.S. in Computer Science and a B.S. in Mathematics.
