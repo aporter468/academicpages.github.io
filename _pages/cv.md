@@ -5,12 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-
+redirect_to:
+- /files/Porter_CV.pdf
 ---
-[Full CV](https://aporter468.github.io/files/Porter_CV.pdf)
- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[CV](https://aporter468.github.io/files/Porter_CV.pdf)
   
